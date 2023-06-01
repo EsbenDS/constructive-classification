@@ -1,0 +1,3 @@
+Document id: 18
+Probability(constructive) = 0.500000
+True class: Not constructive
